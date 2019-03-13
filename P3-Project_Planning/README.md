@@ -17,4 +17,4 @@ https://www.pivotaltracker.com/n/projects/2241315
 ### Project Repo Link
 
 (Include a link to your project on GitHub)
-https://github.com/shrutilc101/Information-Tracker.git
+https://github.com/shrutilc101/InfoTracker.git
